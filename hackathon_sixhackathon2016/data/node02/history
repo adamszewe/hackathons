@@ -1,0 +1,2 @@
+personal.newAccount()
+miner.start(1)

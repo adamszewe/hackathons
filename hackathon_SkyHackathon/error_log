@@ -1,0 +1,39 @@
+[28-May-2016 20:03:27 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php on line 6
+[28-May-2016 20:03:27 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php on line 6
+[28-May-2016 20:03:27 UTC] PHP Fatal error:  Class 'Telegram\Bot\Api' not found in /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php on line 10
+[28-May-2016 20:03:35 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/adamszewecp/public_html/sky/SkyHackathon/webhook.php on line 10
+[28-May-2016 20:03:35 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/adamszewecp/public_html/sky/SkyHackathon/webhook.php on line 10
+[28-May-2016 20:03:35 UTC] PHP Fatal error:  Class 'Telegram\Bot\Api' not found in /home/adamszewecp/public_html/sky/SkyHackathon/webhook.php on line 16
+[28-May-2016 20:03:49 UTC] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/adamszewecp/public_html/sky/SkyHackathon/webhook.php on line 10
+[28-May-2016 20:03:49 UTC] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/adamszewecp/public_html/sky/SkyHackathon/webhook.php on line 10
+[28-May-2016 20:03:49 UTC] PHP Fatal error:  Class 'Telegram\Bot\Api' not found in /home/adamszewecp/public_html/sky/SkyHackathon/webhook.php on line 16
+[28-May-2016 20:06:52 UTC] PHP Fatal error:  Uncaught exception 'Telegram\Bot\Exceptions\TelegramSDKException' with message 'Invalid URL Provided' in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php:679
+Stack trace:
+#0 /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php(28): Telegram\Bot\Api->setWebhook(Array)
+#1 {main}
+  thrown in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php on line 679
+[28-May-2016 20:07:24 UTC] PHP Fatal error:  Uncaught exception 'Telegram\Bot\Exceptions\TelegramSDKException' with message 'Invalid URL Provided' in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php:679
+Stack trace:
+#0 /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php(28): Telegram\Bot\Api->setWebhook(Array)
+#1 {main}
+  thrown in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php on line 679
+[28-May-2016 20:07:57 UTC] PHP Fatal error:  Uncaught exception 'Telegram\Bot\Exceptions\TelegramSDKException' with message 'Invalid URL Provided' in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php:679
+Stack trace:
+#0 /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php(28): Telegram\Bot\Api->setWebhook(Array)
+#1 {main}
+  thrown in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php on line 679
+[28-May-2016 20:09:32 UTC] PHP Fatal error:  Uncaught exception 'Telegram\Bot\Exceptions\TelegramSDKException' with message 'Invalid URL Provided' in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php:679
+Stack trace:
+#0 /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php(28): Telegram\Bot\Api->setWebhook(Array)
+#1 {main}
+  thrown in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php on line 679
+[28-May-2016 20:10:29 UTC] PHP Fatal error:  Uncaught exception 'Telegram\Bot\Exceptions\TelegramSDKException' with message 'Invalid URL Provided' in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php:679
+Stack trace:
+#0 /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php(28): Telegram\Bot\Api->setWebhook(Array)
+#1 {main}
+  thrown in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php on line 679
+[28-May-2016 20:13:56 UTC] PHP Fatal error:  Uncaught exception 'Telegram\Bot\Exceptions\TelegramSDKException' with message 'Invalid URL Provided' in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php:679
+Stack trace:
+#0 /home/adamszewecp/public_html/sky/SkyHackathon/setup_bot.php(28): Telegram\Bot\Api->setWebhook(Array)
+#1 {main}
+  thrown in /home/adamszewecp/public_html/sky/SkyHackathon/vendor/irazasyed/telegram-bot-sdk/src/Api.php on line 679

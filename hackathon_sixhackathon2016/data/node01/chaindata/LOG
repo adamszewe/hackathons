@@ -1,0 +1,34 @@
+=============== Mar 6, 2016 (UTC) ===============
+06:14:22.521519 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:14:22.521698 db@open opening
+06:14:22.521908 version@stat F·[] S·0B[] Sc·[]
+06:14:22.524219 db@janitor F·2 G·0
+06:14:22.524242 db@open done T·2.535489ms
+=============== Mar 6, 2016 (UTC) ===============
+08:51:55.986457 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+08:51:55.986596 version@stat F·[] S·0B[] Sc·[]
+08:51:55.986609 db@open opening
+08:51:55.986654 journal@recovery F·1
+08:51:55.986833 journal@recovery recovering @1
+08:51:56.028321 memdb@flush created L0@2 N·10847 S·486KiB "\x00\x18l..a\xdf\x11,v5841":"\xff\xf61..|\x1d\x97,v7121"
+08:51:56.028589 version@stat F·[1] S·486KiB[486KiB] Sc·[0.25]
+08:51:56.029903 db@janitor F·3 G·0
+08:51:56.029927 db@open done T·43.307778ms
+09:23:36.252152 db@close closing
+09:23:36.252227 db@close done T·72.297µs
+=============== Mar 6, 2016 (UTC) ===============
+09:25:42.784843 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:25:42.785889 version@stat F·[1] S·486KiB[486KiB] Sc·[0.25]
+09:25:42.785902 db@open opening
+09:25:42.785951 journal@recovery F·1
+09:25:42.786044 journal@recovery recovering @3
+09:25:42.789058 memdb@flush created L0@5 N·2 S·180B "Blo..ion,v10850":"blo..um-,v10849"
+09:25:42.789269 version@stat F·[2] S·486KiB[486KiB] Sc·[0.50]
+09:25:42.790437 db@janitor F·4 G·0
+09:25:42.790451 db@open done T·4.542301ms
+09:34:45.396306 table@compaction L0·2 -> L1·0 S·486KiB Q·10853
+09:34:45.411910 table@build created L1@8 N·4774 S·338KiB "\x00\x18l..a\xdf\x11,v5841":"\xff\xf61..|\x1d\x97,v7121"
+09:34:45.412012 version@stat F·[0 1] S·338KiB[0B 338KiB] Sc·[0.00 0.00]
+09:34:45.413668 table@compaction committed F-1 S-148KiB Ke·0 D·6075 T·17.314976ms
+09:34:45.413715 table@remove removed @5
+09:34:45.413830 table@remove removed @2

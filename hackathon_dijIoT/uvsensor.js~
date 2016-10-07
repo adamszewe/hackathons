@@ -1,0 +1,36 @@
+/**
+ * 
+ * Created by adam on 5/15/16.
+ */
+
+
+
+var UVSensor = require('jsupm_guvas12d');
+
+// Instantiate a UV sensor on analog pin A0
+var myUVSensor = new UVSensor.GUVAS12D(0);
+
+// analog voltage, usually 3.3 or 5.0
+var g_GUVAS12D_AREF = 5.0;
+var g_SAMPLES_PER_QUERY = 1024;
+
+setInterval(function()
+{
+    var outputStr = "AREF: " + g_GUVAS12D_AREF
+        + ", Voltage value (higher means more UV): "
+        + roundNum(myUVSensor.value(g_GUVAS12D_AREF, g_SAMPLES_PER_QUERY), 6);
+    console.log(outputStr);
+}, 1000);
+
+function roundNum(num, decimalPlaces)
+{
+    var extraNum = (1 / (Math.pow(10, decimalPlaces) * 1000));
+    return (Math.round((num + extraNum) * (Math.pow(10, decimalPlaces))) / Math.pow(10, decimalPlaces));
+}
+
+// Print message when exiting
+process.on('SIGINT', function()
+{
+    console.log("Exiting...");
+    process.exit(0);
+});

@@ -1,0 +1,40 @@
+
+
+# node 01, passwd: node01
+geth  \
+    --genesis genesis.json  	\
+    --datadir   data/node01 	\
+    --networkid 55555 		\
+    --rpcport 8546 		\
+    --port 30301 		\
+    --maxpeers 5 		\
+    --ipcdisable 		\
+    --rpc			\
+    console
+
+
+# add config file
+
+
+# node 2, passwd: node02
+geth  \
+    --genesis genesis.json  	\
+    --datadir   data/node02 	\
+    --networkid 55555 		\
+    --rpcport 8547 		\
+    --port 30302 		\
+    --maxpeers 5 		\
+    --ipcdisable 		\
+    --rpc			\
+    console
+
+# node 3, passwd: node03
+geth  \
+    --genesis genesis.json  	\
+    --datadir   data/node03 	\
+    --networkid 55555 		\
+    --rpcport 8548 		\
+    --port 30303 		\
+    --maxpeers 5 		\
+    --ipcdisable 		\
+    console

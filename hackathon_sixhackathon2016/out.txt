@@ -1,0 +1,4 @@
+instance: Geth/v1.4.0-unstable/linux/go1.5.1
+coinbase: 0xdb02c1a629d57df8d840e45433392ffafdbd68cb
+at block: 3228 (Sat, 05 Mar 2016 16:17:31 UTC)
+ datadir: emptydir

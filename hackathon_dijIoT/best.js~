@@ -1,0 +1,313 @@
+/**
+ *
+ * Created by adam on 5/14/16.
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////
+// 				Dependencies & configuration
+////////////////////////////////////////////////////////////////////////
+var UPDATE_INTERVAL = 5000;    
+    
+var util = require('util');
+var mraa = require('mraa');
+var five = require('johnny-five');
+var Edison = require('edison-io');
+var mqtt = require('mqtt');
+var groveMotorDriver_lib = require('jsupm_grovemd'); 
+var grooveWaterLib = require('jsupm_grovewater');
+var Uln200xa_lib = require('jsupm_uln200xa');
+var myUln200xa_obj = new Uln200xa_lib.ULN200XA(4096, 3, 4, 5, 6);
+
+var config      = require('/usr/lib/node_modules/iotkit-agent/data/device.json'); // iotkit-agent config file location
+topic           = util.format('server/metric/%s/%s', config.account_id, config.device_id);
+topic_control   = util.format('device/%s/control', config.device_id);
+ca_certs        = ["/usr/lib/node_modules/iotkit-agent/certs/AddTrust_External_Root.pem"]; // default CA cert location
+
+
+
+
+
+
+
+
+
+// function readWaterState() {
+//     if (grooveWaterSensor.isWet()) {
+//         console.log('is wet');
+//     } else {
+//         console.log('is not wet');
+//     }
+// }
+// setInterval(readWaterState, 1000);
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////
+// 				    Hardware components
+////////////////////////////////////////////////////////////////////////
+var board = new five.Board({
+    io: new Edison()
+});
+
+// input
+var lightSensor = new five.Sensor("A0");
+var temperatureSensor = new five.Temperature({pin: "A1", controller: "GROVE"});
+var moistureSensor = new five.Sensor("A2");
+var grooveWaterSensor = new grooveWaterLib.GroveWater(2);
+
+// output
+
+
+
+// function sendData(data) {
+//     console.log("sending data: ");
+//     console.log(data);
+//     client.publish("/v1/" + client.username + "/data", data, function () {
+//
+//     });
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function init() {
+    // turn off all the leds
+
+}
+
+
+
+
+var enableiotConfig = {
+    servers: [{'host': 'broker.us.enableiot.com'}],
+    username: config.device_id,
+    password: config.device_token,
+    clientId: config.account_id,
+    protocol: 'mqtts'
+};
+var client = mqtt.connect(enableiotConfig);
+
+
+
+board.on("ready", function () {
+
+    init();
+
+});
+
+
+// round off output to match C example, which has 6 decimal places
+function roundNum(num, decimalPlaces) {
+    var extraNum = (1 / (Math.pow(10, decimalPlaces) * 1000));
+    return (Math.round((num + extraNum)
+        * (Math.pow(10, decimalPlaces))) / Math.pow(10, decimalPlaces));
+}
+
+
+////////////////////////////////////////////////////////////////////////
+// 				relayr.io - update
+////////////////////////////////////////////////////////////////////////
+client.on('message', function (topic, message) {
+    console.log(topic);
+
+    console.log(message);
+
+    var jsonMessage = JSON.parse(message);
+    console.log(jsonMessage);
+
+    if (jsonMessage['type'] === 'command') {
+	console.log('it is a command');
+	var content = jsonMessage.content;
+
+	if (content != undefined) {
+	    var params = content.params;
+
+	    if (params[0]['name'] === 'active') {
+		    console.log('got that!!!');
+	    }
+
+	}
+
+	console.log(jsonMessage.content);
+
+
+
+    }
+
+    // switch (jsonMessage.name) {
+    //     case 'blueLED':
+    //         (jsonMessage.value) ? blueLED.on() : blueLED.off();
+    //         break;
+    //     case 'greenLED':
+    //         (jsonMessage.value) ? greenLED.on() : greenLED.off();
+    //         break;
+    //     case 'redLED':
+    //         (jsonMessage.value) ? redLED.on() : redLED.off();
+    //         break;
+    //     default:
+    //         break;
+    // }
+});
+
+var compTemp = config.sensor_list.filter(function (obj) {
+    return obj.name === "temp";
+})[0];
+var compLight = config.sensor_list.filter(function (obj) {
+    return obj.name === "light";
+})[0];
+var compMoisture = config.sensor_list.filter(function (obj) {
+    return obj.name === "moisture";
+})[0];
+
+
+
+var compRedLED = config.sensor_list.filter(function (obj) {
+    return obj.name === "redled";
+})[0];
+
+console.log( "device/02-00-86-66-6b-70/control" );
+
+
+client.on('connect', function () {
+
+    //subscribe to commands sent from the dashboard or other clients
+
+    client.subscribe( "device/02-00-86-66-6b-70/control" );
+
+    //simple timer to send a message every 1 second
+    var publisher = setInterval(function () {
+
+        var now = (new Date).getTime();
+
+        var msg = {
+            "accountId": config.account_id,
+            "did": config.device_id,
+            "on": now,
+            "count": 1,
+            "data": [
+                {
+                    "on": now,
+                    "value": temperatureSensor.celsius,
+                    "cid": compTemp.cid
+                },
+                {
+                    "on": now,
+                    "value": lightSensor.value,
+                    "cid": compLight.cid
+                },
+                {
+                    "on": now,
+                    "value": moistureSensor.value,
+                    "cid": compMoisture.cid
+                }
+
+            ]
+        };
+        
+
+
+        client.publish(topic, JSON.stringify(msg), function () {
+            console.log("Observation is submitted");
+            // client.end(); // Close the connection when published
+        });
+        
+    //console.log("moisture: " + moistureSensor.value);
+        
+
+    }, UPDATE_INTERVAL);
+    
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//                      Water Sensor & pump control
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+var waterPumpLoop = setInterval(function () {
+    if (grooveWaterSensor.isWet()) {
+        //waterPump.setMotorDirections(groveMotorDriver_lib.GroveMD.DIR_CCW, groveMotorDriver_lib.GroveMD.DIR_CW); //set the directions of the motors on board 1
+        //waterPump.setMotorSpeeds(120, 0); //set the speeds of the motors on board 1
+        //console.log("water pump running");
+    } else {
+        //waterPump.setMotorSpeeds(0, 0); //set the speeds of the motors on board 1
+        //console.log("water pump stop");
+    }
+}, 1000);
+
+
+
+// Run ULN200xa driven stepper
+// setTimeout(myUln200xa_obj.reverseDirection, 2000);
+// setTimeout(function() {
+//     myUln200xa_obj.stop();
+//     myUln200xa_obj.quit();
+// }, 2000);
+
+
+
+
+
+process.on('SIGINT', function() {
+    console.log('Exiting...');
+    process.exit(0);
+});
+
+

@@ -1,0 +1,47 @@
+
+    jaccard[a_, b_] := ( c = Length[Union[a, b]]; d = Length[Intersection[a, b]]; d / c )
+
+    listOfWords[topic_] := (	
+        wikipediaData = WikipediaData[topic];
+        wikiList = StringSplit[wikipediaData, Except[WordCharacter]..];
+        wikiListLower = Map[ToLowerCase, wikiList];
+        stopWords = WordData[All, "Stopwords"];
+        lowerNoStopWords = Select[wikiListLower, Not[MemberQ[stopWords, #]] &];
+        lowerNoStopWords
+    )
+
+    cleanWords[s_] := (
+        wikiList = StringSplit[s, Except[WordCharacter]..];
+        listLower = Map[ToLowerCase, wikiList];
+        stopWords = WordData[All, "Stopwords"];
+        lowerNoStopWords = Select[listLower, Not[MemberQ[stopWords, #]] &];
+        lowerNoStopWords
+    )
+
+
+twitterJaccard[txt_] := (
+    twitterWords = cleanWords[txt];
+
+    wordsSagradaFamilia = listOfWords["Sagrada Familia"];
+    wordsMuseuPicasso = listOfWords["Museu Picasso"];
+    wordsParkGuell = listOfWords["Park Güell"];
+    wordsHardRockCafe = listOfWords["Hard Rock Cafe"];
+    wordsCampNou = listOfWords["Camp Nou"];
+
+
+    jaccardSagradaFamilia = jaccard[twitterWords, wordsSagradaFamilia];
+    jaccardMuseuPicasso = jaccard[twitterWords, wordsMuseuPicasso];
+    jaccardParkGuell = jaccard[twitterWords, wordsParkGuell];
+    jaccardHardRockCafe = jaccard[twitterWords, wordsHardRockCafe];
+    jaccardCampNou = jaccard[twitterWords, wordsCampNou];
+
+    jaccardIndices = {
+        jaccardSagradaFamilia,
+        jaccardMuseuPicasso, 
+        jaccardParkGuell, 
+        jaccardHardRockCafe,
+        jaccardCampNou 
+    }
+
+
+)
