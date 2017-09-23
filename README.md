@@ -49,3 +49,30 @@ Each  description follows this format:
         <td>2nd prize :D - Phantom 3 Drone</td>
     </tr>
 </table>
+
+### list of all hackathons:
+* facile.it
+* accenture +
+* luxottica
+* vr hackathon brussels
+* cambridge hackathon
+* berlin cisco hackathon
+* hackupc barcelona
+* insurehack london (link Craig article) +
+* six hackathon in switzerland
+* start hack in switzerland
+* sap hackathon at cebit
+* (missing one?)
+* bmw car hackathon
+* droidcon italy hackathon (mentor) +
+* fish hackathon london
+* intel iot hackathon london +
+* berlin hack the house
+* intel iot hackathon in barcelona +
+* hackathonbiz +
+* zurich hackathon in cologne
+* chicco hackathon +
+* hack museum 2017
+
+
+
