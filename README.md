@@ -31,7 +31,6 @@ Each  description follows this format:
 
 <table>
     <tr>
-    <td>1</td>
         <th>#</th>
         <th>Name:</th>
         <th>Date:</th>
