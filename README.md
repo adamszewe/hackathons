@@ -36,20 +36,16 @@ Each  description follows this format:
         <th>Idea:</th>
         <th>Result:</th>
     </tr>
-
     <tr>
         <td>Facile.it</td>
         <td>15-16 ?? Nov 2015</td>
         <td></td>
         <td></td>
     </tr>
-
     <tr>
         <td>Accenture Digital Hackathon</td>
         <td>27-28 Nov 2015</td>
         <td>IoT system for a greener house</td>
         <td>2nd prize :D - Phantom 3 Drone</td>
     </tr>
-
-
 </table>
