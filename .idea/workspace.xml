@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af7b910d-e704-4b0a-9a17-e23fb8e2d24d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2015-11-28_17-27-30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2015-11-28_17-30-38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2015-11-29_08-48-47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2015-11-29_08-49-00.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2015-11-29_08-49-37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2015-12-12_11-24-52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-15_19-27-47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-15_19-28-04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-16_17-10-07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-16_17-10-27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-16_17-10-42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-16_17-10-43 (2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-16_17-10-43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-16_17-10-44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-31_18-45-41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-12_15-43-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-15_15-25-08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-15_15-25-09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-22_19-13-41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-22_19-13-47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-22_19-13-52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-22_19-14-55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-22_19-15-32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-22_19-15-35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-27_01-10-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-27_01-10-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-27_21-48-09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-04_16-53-30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-05_20-27-47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-10_18-58-42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-14_19-54-55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-15_10-07-13 (2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-15_10-07-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-15_10-07-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-15_17-51-52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="af7b910d-e704-4b0a-9a17-e23fb8e2d24d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +15,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="899">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="1023">
+              <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -312,7 +274,7 @@
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="3844" height="2160" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -320,7 +282,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -346,8 +308,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="1023">
+          <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
           <folding />
         </state>
       </provider>
