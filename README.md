@@ -48,6 +48,150 @@ Each  description follows this format:
         <td>IoT system for a greener house</td>
         <td>2nd prize :D - Phantom 3 Drone</td>
     </tr>
+    <tr>
+        <td><a href="#">facile.it</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">accenture</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">luxottica</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">vr hackathon brussels</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">cambridge hackathon</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">berlin cisco hackathon</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">hackupc barcelona</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">insurehack london (link Craig article)</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">six hackathon in switzerland</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">start hack in switzerland</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">sap hackathon at cebit</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">(missing one?)</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">bmw car hackathon</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">droidcon italy hackathon (mentor)</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">fish hackathon london</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">intel iot hackathon london</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">WYS - refugee hackathon</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">icodex milan</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">berlin hack the house</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">intel iot hackathon in barcelona</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">hackathonbiz</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">zurich hackathon in cologne</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">chicco hackathon</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+    <tr>
+    <td><a href="#">hack museum 2017</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
 </table>
 
 ### list of all hackathons:
