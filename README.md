@@ -53,7 +53,7 @@ concatenate strings with a '+' but you do it with a dot .
     </tr>
     <tr>
         <td>1</td>
-        <td>Facile.it</td>
+        <td><a href="events/h01_facile_it/">Facile.it</a></td>
         <td>15-16 ?? Nov 2015</td>
         <td></td>
         <td></td>
