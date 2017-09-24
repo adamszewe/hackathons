@@ -1,0 +1,1 @@
+https://www.hackathon.com/event/european-vr-hackathon-in-brussels-19144271030

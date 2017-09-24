@@ -51,104 +51,98 @@ For each event I participated in I list and explain the following:
     </tr>
     <tr>
         <td>2</td>
-        <td>Accenture Digital Hackathon</td>
+        <td><a href="#">Accenture Digital Hackathon</a></td>
         <td>27-28 Nov 2015</td>
         <td>IoT system for a greener house</td>
         <td>2nd prize :D - Phantom 3 Drone</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="#">luxottica</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="#">Luxottica</a></td>
+        <td>12, 13 Dec 2015</td>
+        <td>Eyeglasses that sense your mood and change the music you listen to accordingly.</td>
         <td></td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="#">vr hackathon brussels</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="#">VR Hackathon Brussels</a></td>
+        <td>15, 16, 17 Jan 2016</td>
+        <td>Google Cardboard vr project for architectual visualization of buildings under construction.</td>
         <td></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="#">cambridge hackathon</a></td>
-        <td></td>
+        <td><a href="#">Cambridge hackathon</a></td>
+        <td>30, 31 Jan 2016</td>
+        <td>VR visualization of the nearest point of interest (instead of using a map).</td>
         <td></td>
     <td></td>
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="#">berlin cisco hackathon</a></td>
+        <td><a href="#">Berlin Cisco Hackathon</a></td>
+        <td>x, y February 2016</td>
+        <td>System for manaing events from start to finish. From tickets to object monitoring through IoT.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td><a href="#">Hackupc Barcelona</a></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>1</td>
-        <td><a href="#">hackupc barcelona</a></td>
+        <td>8</td>
+        <td><a href="#">Insurehack london (link Craig article)</a></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-    <td>1</td>
-        <td><a href="#">insurehack london (link Craig article)</a></td>
+        <td>9</td>
+        <td><a href="#">SIX hackathon in switzerland</a></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-    <td>1</td>
-        <td><a href="#">six hackathon in switzerland</a></td>
+        <td>10</td>
+        <td><a href="#">Start hack in switzerland</a></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-    <td>1</td>
-        <td><a href="#">start hack in switzerland</a></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-    <td>1</td>
-        <td><a href="#">sap hackathon at cebit</a></td>
-        <td></td>
+        <td>11</td>
+        <td><a href="#">InnoJam++ @ CeBIT 2016</a></td>
+        <td>14, 15, 16, 17, 18 March 2016</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-    <td>1</td>
-        <td><a href="#">(missing one?)</a></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-    <td>1</td>
+        <td>12</td>
         <td><a href="#">bmw car hackathon</a></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-    <td>1</td>
+        <td>13</td>
         <td><a href="#">droidcon italy hackathon (mentor)</a></td>
-        <td></td>
+        <td>9, 10 Apr 2016</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-    <td>1</td>
+        <td>14</td>
         <td><a href="#">fish hackathon london</a></td>
         <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-    <td>1</td>
+        <td>1x</td>
         <td><a href="#">intel iot hackathon london</a></td>
         <td></td>
         <td></td>
@@ -219,31 +213,38 @@ For each event I participated in I list and explain the following:
 </table>
 
 ### list of all hackathons:
-* facile.it
-* accenture +
-* luxottica
-* vr hackathon brussels
-* cambridge hackathon
-* berlin cisco hackathon
-* hackupc barcelona
-* insurehack london (link Craig article) +
-* six hackathon in switzerland
-* start hack in switzerland
-* sap hackathon at cebit
-* (missing one?)
-* bmw car hackathon
-* droidcon italy hackathon (mentor) +
-* fish hackathon london
-* intel iot hackathon london +
+1. facile.it
+2. accenture +
+3. luxottica
+4. vr hackathon brussels
+5. cambridge hackathon
+6. berlin cisco hackathon
+7. hackupc barcelona
+8. insurehack london (link Craig article) +
+9. six hackathon in switzerland
+10. start hack in switzerland
+11. sap hackathon at cebit
+12. bmw car hackathon
+13. droidcon italy hackathon (mentor) +
+14. fish hackathon london
+15. intel iot hackathon london +
+16. -- icodex ?
+17. human age hackathon - 15
 * berlin hack the house
+* 20 Oct 2016 hackathon sap milano conferenza - https://www.hackathon.com/event/-sapcult--the-italian-smart-city-hackathon-28283459589
 * intel iot hackathon in barcelona +
 * hackathonbiz +
 * zurich hackathon in cologne
 * chicco hackathon +
+* droidcon italy hackathon 2017
 * hack museum 2017
 
-hackathon sap milano conferenza
-hackathon human something manpower
+
+
+
+some tips for those of you who want to do hackathons
+
+
 
 
 There is something almost paranormal about these hackathons
