@@ -15,20 +15,20 @@ For each event I describe the following details:
 
 # Structure
 For each event I participated in I list and explain the following:
+* Name of the event and place
 * Date
 * Organizer
 * Team info
-* What I learned
-* (link to code)
-* (link to a gallery)
+* Lessons learned
 * prizes won
-* lessons learned
 
 ![My attempt to do a creative collage](/media/hackathons_cover.png)
 
 ## Definition of a hackathon:
-A hackathon is...
-
+<dl>
+    <dt></dt>
+    <dd>A hackathon (also known as a hack day, hackfest or codefest) is a design sprint-like event in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, and others, often including subject-matter-experts, collaborate intensively on software projects.</dd>
+</dl>
 
 
 # 2. Accenture Digital Hackathon, Milan, Italy
