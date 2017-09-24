@@ -1,19 +1,24 @@
-# hackathons
+# Hackathons
 
-# <description is coming soon>
+This repo is a short list of hackathons I did in the past. This is not to brag, but rather
+to document what I did and how travelling around Europe and working on projects with people
+I just met added some value to my life.
 
-After a long time I gathered all the photos and thoughts..
+## Definition of a hackathon:
+A hackathon is...
 
-This is a list of all the hackathons to which I participated till  now.
 
-Each  description follows this format:
+# Structure
+For each event I participated in I list and explain the following:
 * Date
 * Organizer
 * Team info
 * What I learned
 * (link to code)
 * (link to a gallery)
-* what I won
+* prizes won
+* lessons learned
+
 
 
 # 1. Facile.it - Milan, Italy
@@ -24,6 +29,8 @@ Each  description follows this format:
 * (no code available)
 * (any photos available ?)
 * That  was my 1st hackathon, so I  didn't really expect anything, even though I staid up all night to keep  coding our solution.
+The funniest part was 15 minutes from finishing we had a bug, and it was due to the fact that in PHP you cannot
+concatenate strings with a '+' but you do it with a dot .
 
 
 # 2. Accenture Digital Hackathon, Milan, Italy
@@ -204,6 +211,12 @@ Each  description follows this format:
         <td></td>
         <td></td>
         <td></td>
+    </tr>
+    <td><br /></td>
+        <td>Total:</td>
+        <td>~60 days</td>
+        <td>abc</td>
+        <td>abc</td>
     </tr>
 </table>
 

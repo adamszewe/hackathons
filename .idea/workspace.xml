@@ -2,6 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af7b910d-e704-4b0a-9a17-e23fb8e2d24d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/11217667_10153693363871145_4113873113212646803_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/11224518_10153691727016145_2528780880701366898_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/12311204_10153691727066145_3205635503055212973_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/20161024_103928.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/20161024_103937.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/Cvm74PbXYAAmZc1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/Cvm74_8WYAQF4Cn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/Cvm74etWIAA2V0g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-29_09-54-24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-29_09-59-31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-13_16-28-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-23_15-28-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-24_16-57-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-04_23-50-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-12-12_14-36-44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2017-01-10_12-33-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md.tpl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/AudioTag.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/AudioTag.cs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/AudioTagDownload.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/AudioTagDownload.cs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/ParseTest.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/ParseTest.cs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/SingleMicrophoneCapture.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/SingleMicrophoneCapture.cs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/WWWFormAudio.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/WWWFormAudio.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +37,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="link" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/events/h16_icodex/link">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -33,6 +56,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README.md.tpl" />
+        <option value="$PROJECT_DIR$/events/h13_fish_hackathon_london/link" />
+        <option value="$PROJECT_DIR$/events/h15_/link" />
+        <option value="$PROJECT_DIR$/events/h14_/link" />
+        <option value="$PROJECT_DIR$/events/h16_icodex/link" />
       </list>
     </option>
   </component>
@@ -62,7 +90,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -85,23 +113,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
+              <option name="myItemId" value="events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h16_icodex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h14_techfugees_turin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///mnt/workspace/pycharm/hackathons/README.md.tpl" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/events" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/media" />
+      <recent name="$PROJECT_DIR$/media/intel_barcelona" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -117,6 +186,9 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,6 +286,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -277,24 +355,27 @@
     <frame x="-2" y="0" width="3844" height="2160" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25890133" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124109864" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -311,8 +392,350 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        <state relative-caret-position="372">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2883">
+          <caret line="93" column="12" lean-forward="false" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/photo_2015-11-28_17-27-30.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/photo_2015-11-28_17-30-38.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/photo_2015-11-29_08-48-47.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/12311204_10153691727066145_3205635503055212973_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/11224518_10153691727016145_2528780880701366898_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/11217667_10153693363871145_4113873113212646803_n.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/intel_barcelona/20161024_103928.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/intel_barcelona/20161024_103937.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/intel_barcelona/Cvm74_8WYAQF4Cn.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/intel_barcelona/Cvm74etWIAA2V0g.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/intel_barcelona/Cvm74PbXYAAmZc1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_sixhackathon2016/node_config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_sixhackathon2016/genesis.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_sixhackathon2016/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_sixhackathon2016/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_sixhackathon2016/setup.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_sixhackathon2016/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_sixhackathon2016/cocoa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/AudioTag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/AudioTagDownload.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/ParseTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/SingleMicrophoneCapture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/WWWFormAudio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_dijIoT/dust.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506206052023" expanded="true" signature="0:42" ph="/** Created by adam on 5/15/16. ...*/" />
+            <marker date="1506206052023" expanded="true" signature="381:584" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="648:703" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_dijIoT/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1953">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506206052023" expanded="true" signature="0:38" ph="/** Created by adam on 5/15/16. ...*/" />
+            <marker date="1506206052023" expanded="true" signature="40:223" ph="/*...*/" />
+            <marker date="1506206052023" expanded="true" signature="227:408" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="1140:1317" ph="{&quot;username&quot;: config.device_id...}" />
+            <marker date="1506206052023" expanded="true" signature="1365:1541" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="1569:1593" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2117:2406" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="2446:2593" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2642:2748" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2785:2818" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2855:2987" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2991:3266" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="3297:3406" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="3411:3582" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="3630:3758" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="3819:3854" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="3917:3953" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="4021:4061" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="4127:4166" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="4240:5004" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="4270:4977" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="4333:4829" ph="{&quot;accountId&quot;: config.account_id...}" />
+            <marker date="1506206052023" expanded="true" signature="4483:4819" ph="[...]" />
+            <marker date="1506206052023" expanded="true" signature="4501:4647" ph="{&quot;on&quot;: now...}" />
+            <marker date="1506206052023" expanded="true" signature="4665:4804" ph="{&quot;on&quot;: now...}" />
+            <marker date="1506206052023" expanded="true" signature="4903:4967" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="5009:5308" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="5330:5678" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="5418:5582" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="5588:5676" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="5681:5927" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="5963:6018" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="6023:6309" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="6344:6537" ph="{&quot;username&quot;: &quot;1966236f-27fc-411b-a664-b9e06635de34&quot;...}" />
+            <marker date="1506206052023" expanded="true" signature="6671:7321" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="6854:7167" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="6942:7040" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="7115:7161" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="7173:7294" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="7364:7534" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="7411:7524" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="7561:7894" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_dijIoT/module_one.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506206052023" expanded="true" signature="0:41" ph="/** Created by adam on 5/15/16. ...*/" />
+            <marker date="1506206052023" expanded="true" signature="45:226" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="843:1036" ph="{&quot;username&quot;: &quot;1966236f-27fc-411b-a664-b9e06635de34&quot;...}" />
+            <marker date="1506206052023" expanded="true" signature="1079:1107" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="1112:1288" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="1316:1340" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="1541:1718" ph="{&quot;username&quot;: config.device_id...}" />
+            <marker date="1506206052023" expanded="true" signature="1796:1828" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="1889:1924" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="1987:2023" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2089:2128" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2203:2251" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2293:4004" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2443:2480" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2580:3983" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="2641:3299" ph="{&quot;accountId&quot;: config.account_id...}" />
+            <marker date="1506206052023" expanded="true" signature="2791:3289" ph="[...]" />
+            <marker date="1506206052023" expanded="true" signature="2809:2955" ph="{&quot;on&quot;: now...}" />
+            <marker date="1506206052023" expanded="true" signature="2973:3112" ph="{&quot;on&quot;: now...}" />
+            <marker date="1506206052023" expanded="true" signature="3130:3275" ph="{&quot;on&quot;: now...}" />
+            <marker date="1506206052023" expanded="true" signature="3377:3388" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="3432:3845" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="3489:3619" ph="{&quot;path&quot;: &quot;main&quot;...}" />
+            <marker date="1506206052023" expanded="true" signature="3780:3820" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="3910:3974" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="4042:4097" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_dijIoT/stepper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506206052023" expanded="true" signature="0:42" ph="/** Created by adam on 5/15/16. ...*/" />
+            <marker date="1506206052023" expanded="true" signature="91:223" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="372:572" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="620:789" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="825:858" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="894:1026" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="1161:1218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_dijIoT/water.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506206052023" expanded="true" signature="330:374" ph="//..." />
+            <marker date="1506206052023" expanded="true" signature="403:805" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="422:687" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="693:803" ph="{...}" />
+            <marker date="1506206052023" expanded="true" signature="878:927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_dijIoT/data_packet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1506206052023" expanded="true" signature="0:42" ph="/** Created by adam on 5/15/16. ...*/" />
+            <marker date="1506206052023" expanded="true" signature="59:143" ph="{&quot;type&quot;: &quot;command&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-930">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h13_fish_hackathon_london/link">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h15_/link">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="93" lean-forward="false" selection-start-line="0" selection-start-column="93" selection-end-line="0" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h14_techfugees_turin/link">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="122" lean-forward="false" selection-start-line="0" selection-start-column="122" selection-end-line="0" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h16_icodex/link">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
       </provider>
