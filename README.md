@@ -39,14 +39,14 @@ For each event I participated in I list and explain the following:
         <th>#</th>
         <th>Name:</th>
         <th>Date:</th>
-        <th>Idea:</th>
+        <th>Project:</th>
         <th>Result:</th>
     </tr>
     <tr>
         <td>1</td>
         <td><a href="events/h01_facile_it/">Facile.it</a></td>
-        <td>15-16 ?? Nov 2015</td>
-        <td></td>
+        <td>14,15 Nov 2015</td>
+        <td>Given a social media handle of a person, suggest a present to buy for that person.</td>
         <td></td>
     </tr>
     <tr>
