@@ -1,11 +1,15 @@
 # Hackathons
 
-This repo is a short list of hackathons I did in the past. This is not to brag, but rather
-to document what I did and how travelling around Europe and working on projects with people
-I just met added some value to my life.
+This repo is a list of hackathons I did. <br />
+This is not to brag, but rather to document what I did and how travelling around Europe and working on projects with people
+I just met added value to my life. <br />
+Thinking back on what I did it was a little crazy. Just in 2016 I spent almost 2 months away from home at hackathons 
+both in Italy and abroad (Spain, Germany, Switzerland, UK, Belgium). <br />
+<br />
+I don't consider myself to be a hacker (in the real sense
+<br />
+For each event I describe the following details:
 
-## Definition of a hackathon:
-A hackathon is...
 
 
 # Structure
@@ -21,6 +25,8 @@ For each event I participated in I list and explain the following:
 
 ![My attempt to do a creative collage](/media/hackathons_cover.png)
 
+## Definition of a hackathon:
+A hackathon is...
 
 # 1. Facile.it - Milan, Italy
 * Date: 14,15 November 2016
