@@ -19,6 +19,7 @@ For each event I participated in I list and explain the following:
 * prizes won
 * lessons learned
 
+![My attempt to do a creative collage](/media/hackathons_cover.png)
 
 
 # 1. Facile.it - Milan, Italy

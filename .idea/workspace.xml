@@ -2,29 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af7b910d-e704-4b0a-9a17-e23fb8e2d24d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/11217667_10153693363871145_4113873113212646803_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/11224518_10153691727016145_2528780880701366898_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/12311204_10153691727066145_3205635503055212973_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/20161024_103928.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/20161024_103937.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/Cvm74PbXYAAmZc1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/Cvm74_8WYAQF4Cn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/intel_barcelona/Cvm74etWIAA2V0g.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-29_09-54-24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-01-29_09-59-31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-13_16-28-52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-23_15-28-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-02-24_16-57-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-03-04_23-50-52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2016-12-12_14-36-44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/photo_2017-01-10_12-33-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md.tpl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/AudioTag.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/AudioTag.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/AudioTagDownload.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/AudioTagDownload.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/ParseTest.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/ParseTest.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/SingleMicrophoneCapture.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/SingleMicrophoneCapture.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hackathon_VRHackathon2016/WWWFormAudio.cs" afterPath="$PROJECT_DIR$/events/h03_vr_hackathon2016_brussels/WWWFormAudio.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,12 +14,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="link" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/events/h16_icodex/link">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="651">
+                <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -55,12 +35,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README.md.tpl" />
         <option value="$PROJECT_DIR$/events/h13_fish_hackathon_london/link" />
         <option value="$PROJECT_DIR$/events/h15_/link" />
         <option value="$PROJECT_DIR$/events/h14_/link" />
         <option value="$PROJECT_DIR$/events/h16_icodex/link" />
+        <option value="$PROJECT_DIR$/events/h07_insurhack_london/link" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -100,6 +81,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -153,6 +148,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h07_insurhack_london" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -165,12 +178,12 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///mnt/workspace/pycharm/hackathons/README.md.tpl" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/events" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/media" />
       <recent name="$PROJECT_DIR$/media/intel_barcelona" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/events" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -362,7 +375,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25890133" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18260427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -691,23 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-930">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/events/h13_fish_hackathon_london/link">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -737,6 +733,31 @@
         <state relative-caret-position="0">
           <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events/h07_insurhack_london/link">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="651">
+            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
