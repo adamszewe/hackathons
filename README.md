@@ -117,8 +117,8 @@ For each event I participated in I list and explain the following:
         <td>11</td>
         <td><a href="#">InnoJam++ @ CeBIT 2016</a></td>
         <td>14, 15, 16, 17, 18 March 2016</td>
-        <td></td>
-        <td></td>
+        <td>System that learn the driving style of the driver</td>
+        <td>4th place</td>
     </tr>
     <tr>
         <td>12</td>
