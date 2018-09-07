@@ -171,33 +171,33 @@ For each event I participated in I list and explain the following:
     <td>19</td>
         <td><a href="#">intel iot hackathon in barcelona</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>IoT system with drone integration for forest fires</td>
+        <td>3rd Prize! (amazon vouchers)</td>
     </tr>
     <tr>
     <td>20</td>
         <td><a href="#">hackathonbiz</a></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>2nd Prize! (cash prize) - unfortunatelly stolen by one of the team members</td>
     </tr>
     <tr>
     <td>21</td>
         <td><a href="#">zurich hackathon in cologne</a></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>--</td>
     </tr>
     <tr>
     <td>22</td>
-        <td><a href="#">chicco hackathon</a></td>
+        <td><a href="#">Chicco hackathon</a></td>
         <td></td>
         <td></td>
         <td>3rd prize (cash prize)</td>
     </tr>
     <tr>
         <td>23</td>
-        <td><a href="#">hack museum 2017</a></td>
+        <td><a href="#">Hack Museum 2017</a></td>
         <td></td>
         <td></td>
         <td>--</td>
@@ -208,6 +208,13 @@ For each event I participated in I list and explain the following:
         <td></td>
         <td></td>
         <td>1st Prize! Trip to Berlin for TechCrunch</td>
+    </tr>
+    <tr>
+        <td>99</td>
+        <td><a href="#">Droidcon Italy Hackathon 2018</a></td>
+        <td></td>
+        <td>I've been a mentor there - just got some spare hardware ;) </td>
+        <td>--</td>
     </tr>
     <tr>
     <td><br /></td>
