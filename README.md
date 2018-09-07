@@ -31,8 +31,6 @@ For each event I participated in I list and explain the following:
 </dl>
 
 
-# 2. Accenture Digital Hackathon, Milan, Italy
-
 
 <table>
     <tr>
@@ -158,9 +156,9 @@ For each event I participated in I list and explain the following:
     <tr>
     <td>17</td>
         <td><a href="#">icodex milan</a></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>10, 11 June 2016</td>
+        <td>An app to help kids to learn how to read.</td>
+        <td>1st prize! (cash prize)</td>
     </tr>
     <tr>
     <td>18</td>
@@ -190,7 +188,6 @@ For each event I participated in I list and explain the following:
         <td></td>
         <td></td>
     </tr>
-    
     <tr>
     <td>22</td>
         <td><a href="#">chicco hackathon</a></td>
@@ -198,7 +195,6 @@ For each event I participated in I list and explain the following:
         <td></td>
         <td></td>
     </tr>
-    
     <tr>
         <td>23</td>
         <td><a href="#">hack museum 2017</a></td>
@@ -206,8 +202,6 @@ For each event I participated in I list and explain the following:
         <td></td>
         <td></td>
     </tr>
-    
-    
     <tr>
         <td>99</td>
         <td><a href="#">Poste Hack 2017</a></td>
@@ -215,7 +209,6 @@ For each event I participated in I list and explain the following:
         <td></td>
         <td></td>
     </tr>
-    
     <tr>
     <td><br /></td>
         <td>Total:</td>
