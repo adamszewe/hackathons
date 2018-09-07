@@ -193,21 +193,21 @@ For each event I participated in I list and explain the following:
         <td><a href="#">chicco hackathon</a></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>3rd prize (cash prize)</td>
     </tr>
     <tr>
         <td>23</td>
         <td><a href="#">hack museum 2017</a></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>--</td>
     </tr>
     <tr>
         <td>99</td>
         <td><a href="#">Poste Hack 2017</a></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>1st Prize! Trip to Berlin for TechCrunch</td>
     </tr>
     <tr>
     <td><br /></td>
