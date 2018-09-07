@@ -4,4 +4,5 @@
 
 todo:
     add link for each hackathon to its page
-    add info graphics to the hackathon page { map of places where I've been,
+    add info graphics to the hackathon page { map of places where I've been maybe with google maps, }
+    add more photos

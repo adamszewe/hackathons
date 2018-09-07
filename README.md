@@ -45,35 +45,35 @@ For each event I participated in I list and explain the following:
         <td><a href="events/h01_facile_it/">Facile.it</a></td>
         <td>14,15 Nov 2015</td>
         <td>Given a social media handle of a person, suggest a present to buy for that person.</td>
-        <td></td>
+        <td>--</td>
     </tr>
     <tr>
         <td>2</td>
         <td><a href="#">Accenture Digital Hackathon</a></td>
         <td>27-28 Nov 2015</td>
         <td>IoT system for a greener house</td>
-        <td>2nd prize :D - Phantom 3 Drone</td>
+        <td>2nd prize :D - Phantom 3 Standard Drone</td>
     </tr>
     <tr>
         <td>3</td>
         <td><a href="#">Luxottica</a></td>
         <td>12, 13 Dec 2015</td>
         <td>Eyeglasses that sense your mood and change the music you listen to accordingly.</td>
-        <td></td>
+        <td>--</td>
     </tr>
     <tr>
         <td>4</td>
         <td><a href="#">VR Hackathon Brussels</a></td>
         <td>15, 16, 17 Jan 2016</td>
         <td>Google Cardboard vr project for architectual visualization of buildings under construction.</td>
-        <td></td>
+        <td>--</td>
     </tr>
     <tr>
         <td>5</td>
         <td><a href="#">Cambridge hackathon</a></td>
         <td>30, 31 Jan 2016</td>
         <td>VR visualization of the nearest point of interest (instead of using a map).</td>
-        <td></td>
+        <td>--</td>
     <td></td>
     </tr>
     <tr>
@@ -81,77 +81,77 @@ For each event I participated in I list and explain the following:
         <td><a href="#">Berlin Cisco Hackathon</a></td>
         <td>x, y February 2016</td>
         <td>System for manaing events from start to finish. From tickets to object monitoring through IoT.</td>
-        <td></td>
+        <td>--</td>
     </tr>
     <tr>
         <td>7</td>
         <td><a href="#">Hackupc Barcelona</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>IoT system that uses BLE to personalize tourist trips</td>
+        <td>Two sponsor prizes: Wolfram Mathematica subscription; Courses</td>
     </tr>
     <tr>
         <td>8</td>
         <td><a href="#">Insurehack london (link Craig article)</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>IoT system for evaluating damages to buildings for insurance</td>
+        <td>1st prize</td>
     </tr>
     <tr>
         <td>9</td>
         <td><a href="#">SIX hackathon in switzerland</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>Derivatives exchange based on cryptocurrencies (Ethereum)</td>
+        <td>--</td>
     </tr>
     <tr>
         <td>10</td>
         <td><a href="#">Start hack in switzerland</a></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>nothing in theory, but I got a Logitech mechanical keyboard for free</td>
     </tr>
     <tr>
         <td>11</td>
         <td><a href="#">InnoJam++ @ CeBIT 2016</a></td>
         <td>14, 15, 16, 17, 18 March 2016</td>
         <td>System that learn the driving style of the driver</td>
-        <td>4th place</td>
+        <td>4th prize = nothinig</td>
     </tr>
     <tr>
         <td>12</td>
         <td><a href="#">bmw car hackathon</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>I didn't manage to finish the hackathon as I got really sick and had to stay at home</td>
+        <td>--</td>
     </tr>
     <tr>
         <td>13</td>
-        <td><a href="#">droidcon italy hackathon (mentor)</a></td>
+        <td><a href="#">Droidcon Italy Hackathon 2016</a></td>
         <td>9, 10 Apr 2016</td>
-        <td></td>
-        <td></td>
+        <td>I participated as mentor</td>
+        <td>--</td>
     </tr>
     <tr>
         <td>14</td>
         <td><a href="#">fish hackathon london</a></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>--</td>
     </tr>
     <tr>
         <td>15</td>
         <td><a href="#">intel iot hackathon london</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>IoT system for agriculture</td>
+        <td>2nd Prize! (amazon vouchers)</td>
     </tr>
     <tr>
     <td>16</td>
         <td><a href="#">WYS - refugee hackathon</a></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>1st prize! Trip to Motorola hq in Berlin (but we never got the prize :| )</td>
     </tr>
     <tr>
     <td>17</td>
@@ -162,10 +162,10 @@ For each event I participated in I list and explain the following:
     </tr>
     <tr>
     <td>18</td>
-        <td><a href="#">berlin hack the house</a></td>
+        <td><a href="#">Berlin hack the house</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>Unfortunally our team dismembered during the hackathon for the lack of ideas</td>
+        <td>--</td>
     </tr>
     <tr>
     <td>19</td>
@@ -176,37 +176,37 @@ For each event I participated in I list and explain the following:
     </tr>
     <tr>
     <td>20</td>
-        <td><a href="#">hackathonbiz</a></td>
+        <td><a href="#">Hackathonbiz</a></td>
         <td></td>
-        <td></td>
+        <td>A system based on app and ble beacons for tracking tourists on their path</td>
         <td>2nd Prize! (cash prize) - unfortunatelly stolen by one of the team members</td>
     </tr>
     <tr>
     <td>21</td>
-        <td><a href="#">zurich hackathon in cologne</a></td>
+        <td><a href="#">Zurich hackathon in Cologne</a></td>
         <td></td>
-        <td></td>
+        <td>Insurance brokerage through bot</td>
         <td>--</td>
     </tr>
     <tr>
     <td>22</td>
         <td><a href="#">Chicco hackathon</a></td>
         <td></td>
-        <td></td>
+        <td>Intelligent biberon for kids (better description)</td>
         <td>3rd prize (cash prize)</td>
     </tr>
     <tr>
         <td>23</td>
         <td><a href="#">Hack Museum 2017</a></td>
         <td></td>
-        <td></td>
+        <td>doh!</td>
         <td>--</td>
     </tr>
     <tr>
         <td>99</td>
         <td><a href="#">Poste Hack 2017</a></td>
         <td></td>
-        <td></td>
+        <td>Allowing people to get their packages from authorized deposits managed by normal people identified with SPID</td>
         <td>1st Prize! Trip to Berlin for TechCrunch</td>
     </tr>
     <tr>
